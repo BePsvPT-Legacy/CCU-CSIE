@@ -1,0 +1,192 @@
+@charset "utf-8";
+
+body {
+	margin:0px;
+	background-image:url(../images/background/background.jpg);
+	background-attachment: fixed;
+	font-size: 30px;
+	font-family: 微軟正黑體,Microsoft JhengHei;
+}
+
+nav {
+	width:910px;
+	height:50px;
+	background-image:url(../images/navigation/nav.jpg);
+	margin: 20px auto 0 auto;
+	padding: 0;
+}
+
+nav ul {
+	margin: 0px;
+	padding: 0 0 0 0;
+	width: 920px;
+	list-style: none;
+}
+
+nav ul li {
+	display: inline;
+}
+
+nav ul li a {
+	float: left;
+	padding: 7px 20px;	
+	text-align: center;
+	font-size: 25px;
+	text-align: center;
+	text-decoration: none;
+	background: url(../images/navigation/templatemo_menu_divider.png) center right no-repeat;
+	color: #fff;	
+	font-family: 微軟正黑體,Microsoft JhengHei;
+	outline: none;
+}
+
+nav li a:hover {
+	color: #2a5f00;
+}
+
+.main {
+	margin: 3% 20% 5% 20%;
+}
+
+.main p {
+	text-align: center;
+}
+
+.teaching {
+	margin: 3% 20% 5% 20%;
+}
+
+.teaching ol li {
+	font-weight: bold;
+}
+
+.notice {
+	margin: 3% 20% 5% 20%;
+}
+
+.download {
+	margin: 3% 20% 5% 20%;
+}
+
+.download p {
+	font-weight: bold;
+	color: red;
+}
+
+.download form {
+	text-align: center;
+}
+
+.checkbutton {
+	height: 24px;
+	width: 24px;
+}
+
+.sendbutton {
+	vertical-align: top;
+	height: 36px;
+	width: 60px;
+	font-size: 20px;
+	font-family: 微軟正黑體,Microsoft JhengHei;
+}
+
+.version {
+	margin: 3% 20% 5% 20%;
+}
+
+.version table {
+	margin: 30px auto auto auto;
+	border-collapse: collapse;
+	width: 500px;
+}
+
+.version table th {
+	border: 2px solid black;
+	font-size: 30px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.version table tr td {
+	border: 2px solid black;
+	font-size: 25px;
+	text-align: center;
+}
+
+.version table tr td li {
+	text-align: left;
+	padding-left: 30px;
+}
+
+.contactus {
+	margin: 3% 20% 5% 20%;
+}
+
+.contactus p {
+	font-weight: bold;
+	color: red;
+	text-align: center;
+}
+
+.contactus form {
+	margin: 30px auto auto auto;
+	font-size: 25px;
+	text-align: center;
+}
+
+.contenttype {
+	vertical-align: top;
+}
+
+.contenttype  select {
+	height: 35px;
+	width: 176px;
+	font-size: 25px;
+	font-family: 微軟正黑體,Microsoft JhengHei;
+}
+
+.content {
+	vertical-align: top;
+}
+
+.content textarea {
+	resize: none;
+	overflow: auto;
+	font-size: 25px;
+	font-family: 微軟正黑體,Microsoft JhengHei;
+}
+
+.email {
+	vertical-align: top;
+}
+
+.email input{
+	vertical-align: top;
+	height: 30px;
+	width: 512px;
+	font-size: 25px;
+	font-family: 微軟正黑體,Microsoft JhengHei;
+}
+
+.authenticate {
+	vertical-align: top;
+}
+
+.authenticate  input {
+	vertical-align: top;
+	height: 30px;
+	width: 128px;
+	font-size: 25px;
+	font-family: 微軟正黑體,Microsoft JhengHei;
+}
+
+.button input {
+	height: 36px;
+	width: 60px;
+	font-size: 20px;
+	font-family: 微軟正黑體,Microsoft JhengHei;
+}
+
+.footer {
+	text-align: center;
+}

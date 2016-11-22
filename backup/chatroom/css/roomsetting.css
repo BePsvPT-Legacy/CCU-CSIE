@@ -1,0 +1,63 @@
+@charset "utf-8";
+
+div {
+	width: 100%;
+	margin: 3% auto 3% auto;
+	text-align: center;
+}
+
+div div {
+	width: 1024px;
+	margin: 30px auto 30px auto;
+}
+
+div div p {
+	color: red;
+	font-weight: bold;
+}
+
+div div div p {
+	color: blue;
+	font-weight: bold;
+	text-align: center;
+}
+
+div div form table {
+	width: 100%;
+	margin: 0px auto 0px auto;
+	text-align: center;
+}
+
+div div form table tr th {
+	width: 55%;
+	text-align: right;
+}
+
+div div form table tr td {
+	text-align: left;
+}
+
+div div form table tr td  select {
+	height: 35px;
+	width: 90px;
+	font-size: 25px;
+	font-family: 微軟正黑體,Microsoft JhengHei;
+}
+
+.button td {
+	text-align: center;
+}
+
+.button td input {
+	height: 35px;
+	width: 80px;
+	font-size: 25px;
+	font-family: 微軟正黑體,Microsoft JhengHei;
+}
+
+.music_upload td input {
+	height: 35px;
+	width: 350px;
+	font-size: 25px;
+	font-family: 微軟正黑體,Microsoft JhengHei;
+}

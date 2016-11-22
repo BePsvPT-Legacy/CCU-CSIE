@@ -1,0 +1,83 @@
+@charset "utf-8";
+
+div {
+	width: 100%;
+	margin: 3% auto 3% auto;
+	text-align: center;
+}
+
+div div {
+	width: 100%;
+	margin: 15px auto 15px auto;
+}
+
+div div p {
+	color: red;
+	font-weight: bold;
+}
+
+.hashkey {
+	display: none;
+}
+
+.show_message {
+	width: 80%;
+	height: 535px;
+	overflow: auto;
+	margin: 0px auto 0px auto;
+}
+
+.online_people {
+	display: inline-block;
+	width: 700px;
+}
+
+.current_time {
+	display: inline-block;
+	width: 210px;
+	text-align: right;
+}
+
+.show_message table {
+	width: 100%; 
+	margin: 0px auto 0px auto;
+}
+
+.msgname {
+	width: auto; 
+	height: 45px;
+	text-align: right;
+}
+
+.msgcontent {
+	width: auto; 
+	height: 45px; 
+	text-align: left;
+}
+
+.msgtime {
+	width: auto; 
+	height: 45px; 
+	text-align: center;
+}
+
+.msg_process input {
+	width: auto;
+	height: 35px;
+	font-size: 25px;
+	font-family: 微軟正黑體,Microsoft JhengHei;
+}
+
+.message_text {
+	height: 35px;
+	width: 570px;
+	font-size: 25px;
+	font-family: 微軟正黑體,Microsoft JhengHei;
+}
+
+.message_submit {
+	height: 35px;
+	width: 80px;
+	font-size: 25px;
+	font-family: 微軟正黑體,Microsoft JhengHei;
+}

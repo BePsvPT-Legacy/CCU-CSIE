@@ -1,0 +1,106 @@
+@charset "utf-8";
+
+.departmentinfo {
+	margin: 3% 20% 5% 20%;
+}
+
+.departmentinfo p {
+	text-align: center;
+	font-weight: bold;
+	color: red;
+}
+
+.infoshow p {
+	text-align: center;
+	font-weight: bold;
+	color: red;
+}
+
+.infoshow table {
+	margin: 30px auto auto auto;
+	border-collapse: collapse;
+	width: 450px;
+}
+
+.infoshow table th {
+	border: 2px solid black;
+	font-size: 30px;
+	text-align: center;
+	font-weight: bold;
+	height: 45px;
+}
+
+.infoshow table tr td {
+	border: 2px solid black;
+	font-size: 25px;
+	text-align: center;
+	height: 40px;
+}
+
+.infoadd form {
+	margin: 30px auto auto auto;
+	font-size: 25px;
+	text-align: center;
+}
+
+.infoadd form input {
+	height: 36px;
+	width: 105px;
+	font-size: 20px;
+	font-family: 微軟正黑體,Microsoft JhengHei;
+}
+
+.adddepartment form {
+	margin: 30px auto auto auto;
+	font-size: 25px;
+	text-align: center;
+}
+
+.adddepartment p {
+	text-align: center;
+	font-weight: bold;
+	color: red;
+}
+
+.name {
+	vertical-align: top;
+}
+
+.name input{
+	vertical-align: top;
+	height: 30px;
+	width: 480px;
+	font-size: 25px;
+	font-family: 微軟正黑體,Microsoft JhengHei;
+}
+
+.link {
+	vertical-align: top;
+}
+
+.link input{
+	vertical-align: top;
+	height: 30px;
+	width: 720px;
+	font-size: 25px;
+	font-family: 微軟正黑體,Microsoft JhengHei;
+}
+
+.authenticate {
+	vertical-align: top;
+}
+
+.authenticate  input {
+	vertical-align: top;
+	height: 30px;
+	width: 128px;
+	font-size: 25px;
+	font-family: 微軟正黑體,Microsoft JhengHei;
+}
+
+.button input {
+	height: 36px;
+	width: 105px;
+	font-size: 20px;
+	font-family: 微軟正黑體,Microsoft JhengHei;
+}

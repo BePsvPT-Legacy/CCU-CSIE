@@ -1,0 +1,50 @@
+@charset "utf-8";
+
+body {
+	margin:0px;
+	background-image:url(../images/background/background.jpg);
+	background-repeat:repeat-y;
+	background-attachment: fixed;
+	font-size: 30px;
+	font-family: 微軟正黑體,Microsoft JhengHei;
+}
+
+nav {
+	width:770px;
+	height:50px;
+	background-image:url(../images/navigation/nav.jpg);
+	margin: 20px auto 0 auto;
+	padding: 0 ;
+}
+
+nav ul {
+	margin: 0px;
+	padding: 0 0 0 0;
+	width: 920px;
+	list-style: none;
+}
+
+nav ul li {
+	display: inline;
+}
+
+nav ul li a {
+	float: left;
+	padding: 7px 20px;	
+	text-align: center;
+	font-size: 25px;
+	text-align: center;
+	text-decoration: none;
+	background: url(../images/navigation/templatemo_menu_divider.png) center right no-repeat;
+	color: #fff;	
+	font-family: 微軟正黑體,Microsoft JhengHei;
+	outline: none;
+}
+
+nav li a:hover {
+	color: #2a5f00;
+}
+
+.footer {
+	text-align: center;
+}

@@ -1,0 +1,6 @@
+Options -Indexes
+ErrorDocument 400 http://www.cs.ccu.edu.tw/~cys102u/index.php
+ErrorDocument 401 http://www.cs.ccu.edu.tw/~cys102u/index.php
+ErrorDocument 403 http://www.cs.ccu.edu.tw/~cys102u/scripts/error/404_error.php
+ErrorDocument 404 http://www.cs.ccu.edu.tw/~cys102u/scripts/error/404_error.php
+ErrorDocument 500 http://www.cs.ccu.edu.tw/
